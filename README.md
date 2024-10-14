@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bluefly-clone
 Bluefly Clone App is a web application that replicates the functionality of the Bluefly online shopping platform. The app allows users to browse and purchase a wide range of products, providing a seamless shopping experience.
 
@@ -35,3 +36,5 @@ Make sure you have the following installed on your machine:
 - **Node.js** (version 14 or higher)
 - **npm** (Node Package Manager, comes with Node.js)
 - **MongoDB** (for local development) or access to a MongoDB Atlas cluste
+=======
+>>>>>>> 41c1dfa (Initial commit for Bluefly clone)
