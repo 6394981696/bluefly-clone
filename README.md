@@ -33,12 +33,6 @@ In this project, I used ReactJS , Chakra-UI, JavaScript, HTML, and CSS. My proje
 * Clicking the button in the navbar you willtaken to sign-in page.
 <img src="https://github.com/Omgupta12/Bluefly-Clone/blob/main/Images/Screenshot%20(6163).png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
-
-
-Source Code:- https://github.com/Omgupta12/Bluefly-Clone
-(GitHub Link)
-
 # bluefly-clone
 Bluefly Clone App is a web application that replicates the functionality of the Bluefly online shopping platform. The app allows users to browse and purchase a wide range of products, providing a seamless shopping experience.
 
