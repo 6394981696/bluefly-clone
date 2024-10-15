@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bluefly-clone
 
 In this project, I used ReactJS , Chakra-UI, JavaScript, HTML, and CSS. My project is to clone the Bluefly website, Bluefly is an e-commerce web application that allows you to shop online. It has a variety of categories, just visit the listing page, trending page and you will see all the items available, apply sorting as per your need and in just a few clicks from the website.
@@ -39,13 +39,6 @@ In this project, I used ReactJS , Chakra-UI, JavaScript, HTML, and CSS. My proje
 Source Code:- https://github.com/Omgupta12/Bluefly-Clone
 (GitHub Link)
 
-Source Code:- https://blue-omgupta12.vercel.app/
-(Vercel Link)
-
-
-
-=======
-<<<<<<< HEAD
 # bluefly-clone
 Bluefly Clone App is a web application that replicates the functionality of the Bluefly online shopping platform. The app allows users to browse and purchase a wide range of products, providing a seamless shopping experience.
 
@@ -83,6 +76,3 @@ Make sure you have the following installed on your machine:
 - **Node.js** (version 14 or higher)
 - **npm** (Node Package Manager, comes with Node.js)
 - **MongoDB** (for local development) or access to a MongoDB Atlas cluste
-=======
->>>>>>> 41c1dfa (Initial commit for Bluefly clone)
->>>>>>> 030b96187e2fac873e8567946dda2784fb0e1c62
